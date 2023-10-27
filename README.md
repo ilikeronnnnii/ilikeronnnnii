@@ -17,21 +17,6 @@
 <picture> <img align="right" src="https://media.giphy.com/media/10zHDq77BLwcy4/giphy.gif"></picture>
 
 <br>
-
-
-
-- 👋 Hi, I’m @Megat Muhammad Zafran :D
-- 👀 I’m a CyberSecurity Enthusiast.
-- 🌱 I’m currently learning with Google.
-- 💞️ Spends more time keeping up with ctf challenges than with his friends
-- Feel free to connect with me on Linkedin.
-- Learning new technologies everyday to become better than my past self.
- 
- 
-<br>
-
-
-
 ## :triangular_flag_on_post: CTF profiles:
 
 <div align="center">
