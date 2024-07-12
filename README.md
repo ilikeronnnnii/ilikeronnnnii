@@ -5,7 +5,7 @@
 
 ```javascript
 const Megat = {
-    education: "UTM Computer Network & Security"
+    education: "UTM Computer Network & Security",
     code: ["Javascript", "C++", "C", "Java", "php"],
     askMeAbout: ["Web Vulnerability", "Digital Forensics"],
     technologies: {
