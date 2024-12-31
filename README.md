@@ -32,38 +32,5 @@ const Megat = {
 
 ## ✍🏻 My Previous Writeups
 
- <ul class="post-list">
-      <li class="post-item">
-    <div class="meta">
-          <time datetime="2024-05-17T15:22:12.000Z" class="dt-published" itemprop="datePublished">20-01-2024</time>
-          <span>
-        <a class="" href="https://aan.gitbook.io/aans-vault/ctf-writeups/mapnactf-2024">MapnaCTF 2024</a>
-          </span>
-    </div>
-           </li>
-      <li class="post-item">
-     <div class="meta">
-          <time datetime="2024-05-17T15:22:12.000Z" class="dt-published" itemprop="datePublished">17-02-2024</time>
-          <span>
-        <a class="" href="https://aan.gitbook.io/aans-vault/ctf-writeups/broncoctf-2024">BroncoCTF 2024</a>
-          </span>
-    </div>
-      </li>
-      <li class="post-item">
-     <div class="meta">
-          <time datetime="2024-05-17T15:22:12.000Z" class="dt-published" itemprop="datePublished">16-02-2024</time>
-          <span>
-        <a class="" href="https://aan.gitbook.io/aans-vault/ctf-writeups/lactf-2024">UclaCTF 2024</a>
-          </span>
-    </div>
-      </li>
-     <div class="meta">
-          <li class="post-item">
-          <time datetime="2024-05-17T15:22:12.000Z" class="dt-published" itemprop="datePublished">10-03-2024</time>
-          <span>
-        <a class="" href="https://aan.gitbook.io/aans-vault/ctf-writeups/rentas-qualifier-2024">RentasCTF 2024</a>
-          </span>
-    </div>
-      </li>
-  </ul>
+[ilikeronnnnnii.github.io/](https://ilikeronnnnii.github.io/categories/Writeups/)
 
