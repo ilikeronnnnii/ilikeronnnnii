@@ -1,4 +1,5 @@
 <p align="center">
+  i reconstruct tha chaos
   <span style="display:inline-block;background:#0d0d0d;padding:12px;border-radius:10px;">
     <img src="https://media.giphy.com/media/mxqLw79MND3CE/giphy.gif" width="160" alt="img1" style="display:inline-block;border-radius:8px;margin:6px;">
     <img src="https://media.giphy.com/media/fczkkKFdKFoCQ/giphy.gif" width="160" alt="img2" style="display:inline-block;border-radius:8px;margin:6px;">
