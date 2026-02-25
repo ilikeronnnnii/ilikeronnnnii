@@ -1,16 +1,11 @@
-<p align="center">
-  <span style="display:inline-block;background:#0d0d0d;padding:12px;border-radius:10px;">
-    <img src="https://media.giphy.com/media/mxqLw79MND3CE/giphy.gif" width="160" alt="img1" style="display:inline-block;border-radius:8px;margin:6px;">
-    <img src="https://media.giphy.com/media/fczkkKFdKFoCQ/giphy.gif" width="160" alt="img2" style="display:inline-block;border-radius:8px;margin:6px;">
-    <br>
-    <img src="https://24.media.tumblr.com/8a796bf83dd8b1137f487c29f7b5cf2d/tumblr_mpr46cXTqD1rv2hb1o1_400.gif" width="220" alt="center" style="display:inline-block;border-radius:8px;margin:10px 6px;">
-    <br>
-    seketul budak performative
-    <img src="https://media.giphy.com/media/h7oXRi64iymvxUrYEw/giphy.gif" width="100" alt="small1" style="display:inline-block;border-radius:8px;margin:6px;">
-    <img src="https://img1.picmix.com/output/stamp/normal/1/2/1/3/2703121_d69b2.gif" width="100" alt="small2" style="display:inline-block;border-radius:8px;margin:6px;">
-    <br>
-    <img src="https://media.giphy.com/media/dwbMLvtTjsEU5oi6C1/giphy.gif" width="160" alt="img3" style="display:inline-block;border-radius:8px;margin:6px;">
-    <img src="https://media.giphy.com/media/12YliPpsL8HJPG/giphy.gif" width="160" alt="img4" style="display:inline-block;border-radius:8px;margin:6px;">
-  </span>
-</p>
+<div align="center">
 
+<img src="https://media.giphy.com/media/fczkkKFdKFoCQ/giphy.gif" width="80">&nbsp;&nbsp;<img src="https://media.giphy.com/media/mxqLw79MND3CE/giphy.gif" width="160">&nbsp;<img src="https://img1.picmix.com/output/stamp/normal/1/2/1/3/2703121_d69b2.gif" width="60">
+
+<img src="https://media.giphy.com/media/rzs6FB9kLRM19sXtXC/giphy.gif" width="220">&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/12YliPpsL8HJPG/giphy.gif" width="90">
+
+<img src="https://media1.tenor.com/m/lt9FCu6IK-YAAAAd/facegif.gif" width="70">&nbsp;&nbsp;<img src="https://media.giphy.com/media/dwbMLvtTjsEU5oi6C1/giphy.gif" width="110">
+
+s<br>e<br>k<br>e<br>t<br>u<br>l<br>&nbsp;b<br>u<br>d<br>a<br>k<br>&nbsp;p<br>e<br>r<br>f<br>o<br>r<br>m<br>a<br>t<br>i<br>v<br>e
+
+</div>
