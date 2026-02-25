@@ -6,6 +6,5 @@
 
 <img src="https://media1.tenor.com/m/lt9FCu6IK-YAAAAd/facegif.gif" width="70">&nbsp;&nbsp;<img src="https://media.giphy.com/media/dwbMLvtTjsEU5oi6C1/giphy.gif" width="110">
 
-seketul budak performative
 
 </div>
