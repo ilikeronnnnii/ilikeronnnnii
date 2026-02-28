@@ -23,7 +23,7 @@
 <img src="https://media1.tenor.com/m/lt9FCu6IK-YAAAAd/facegif.gif" width="95">&nbsp;&nbsp;<img src="https://media.giphy.com/media/h7oXRi64iymvxUrYEw/giphy.gif" width="65">
 </div>
 
-<div align="right">
+<div align="right"> web research every once in a while &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img src="https://media1.tenor.com/m/i6R8831OTPsAAAAd/chris-cornell-soundgarden.gif" width="105">&nbsp;<img src="https://media.tenor.com/u2TVO1QUeggAAAAj/tnt-explosion.gif" width="45">
 </div>
 
